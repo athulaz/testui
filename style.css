@@ -2,4 +2,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+.edit-button {
+    padding: 10px 160px; 
+    color: red; 
+    background-color: white; 
+    border: 2px solid red; 
+    border-radius: 5px; 
+    cursor: pointer; 
    
+   
+    
+}
